@@ -1,0 +1,5 @@
+client seed       -> neOmYJS4d9jCvC
+server seed       -> 8f8ee56e3f332df7763e01167ca4afbc
+sha1(server seed) -> ab3095d267820a12c6c8a6b1c7d1be8a65ef5773
+starting nounce   -> 1
+end nounce        -> 14
